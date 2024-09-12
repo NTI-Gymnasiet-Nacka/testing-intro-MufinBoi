@@ -15,13 +15,7 @@ Exempelvis är följande ord eller meningar palindrom:
 - racecar
 - abccba
 - en för alla, alla för en
-- sirap i paris
-- rosor
-- trollort
-
-Ditt program ska inte skriva ut något annat än "True" eller "False". Ditt program ska ta in ett ord per körning.
-
-### Räkna vokaler
+- sirap i paris### Räkna vokaler
 
 Din uppgift är att räkna antalet vokaler i en inmatad sträng. Följande bokstäver anses vara vokaler: a e i o u y å ä ö.
 
@@ -32,6 +26,12 @@ Exempel:
 - hello world - 3
 - gymnasium - 3
 - bcdfg - 0
+- rosor
+- trollort
+
+Ditt program ska inte skriva ut något annat än "True" eller "False". Ditt program ska ta in ett ord per körning.
+
+
 - aeiouAEIOU - 10
 
 ### Omvandla C till F

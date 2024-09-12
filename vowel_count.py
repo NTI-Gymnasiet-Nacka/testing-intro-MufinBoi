@@ -6,3 +6,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+text= str(input("skriv en text för att kolla hur många vokaler: "))   
+vokaler= "aeiouyåäö"
+
